@@ -1,1 +1,2 @@
-It was a sunny May day
+It was a sunny May day.
+Biily was snoozing in the hammock.
